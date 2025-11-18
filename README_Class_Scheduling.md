@@ -110,7 +110,7 @@ Schedule::create([
 ---
 
 ## 👥 Contributors
-- **April Joyce [Your Last Name]** — Developer / Documentation Author
+- **April Joyce Z. Legaspi** — Developer / Documentation Author
 
 ---
 
