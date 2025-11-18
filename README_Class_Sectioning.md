@@ -108,7 +108,7 @@ Section::create([
 ---
 
 ## 👥 Contributors
-- **April Joyce [Your Last Name]** — Developer / Documentation Author
+- **Edzielle Jay R. Orine** — Developer / Documentation Author
 
 ---
 
